@@ -1,0 +1,6 @@
+framework module Pods_ToDoListCoreData {
+  umbrella header "Pods-ToDoListCoreData-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -17,6 +17,7 @@
 		9B3352E21D99148B00183C2E /* ToDo+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3352E01D99148B00183C2E /* ToDo+CoreDataProperties.swift */; };
 		9B3352E31D99148B00183C2E /* ToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3352E11D99148B00183C2E /* ToDo.swift */; };
 		9B3352E51D991F7400183C2E /* ToDoListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3352E41D991F7400183C2E /* ToDoListTableViewController.swift */; };
+		9B744F2D1D9D0C4500815BA4 /* ServerTodoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B744F2C1D9D0C4500815BA4 /* ServerTodoTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		9B3352E11D99148B00183C2E /* ToDo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ToDo.swift; sourceTree = "<group>"; };
 		9B3352E41D991F7400183C2E /* ToDoListTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ToDoListTableViewController.swift; sourceTree = "<group>"; };
 		9B3352E61D9A774500183C2E /* ToDoListCoreData-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ToDoListCoreData-Bridging-Header.h"; sourceTree = "<group>"; };
+		9B744F2C1D9D0C4500815BA4 /* ServerTodoTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServerTodoTableViewController.swift; sourceTree = "<group>"; };
 		C4571F2251A97FD6F933CEA6 /* Pods-ToDoListCoreData.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ToDoListCoreData.release.xcconfig"; path = "Pods/Target Support Files/Pods-ToDoListCoreData/Pods-ToDoListCoreData.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -82,6 +84,7 @@
 				9B3352CB1D990ED500183C2E /* AppDelegate.swift */,
 				9B3352CD1D990ED500183C2E /* ViewController.swift */,
 				9B3352E41D991F7400183C2E /* ToDoListTableViewController.swift */,
+				9B744F2C1D9D0C4500815BA4 /* ServerTodoTableViewController.swift */,
 				9B3352CF1D990ED500183C2E /* Main.storyboard */,
 				9B3352D51D990ED500183C2E /* Assets.xcassets */,
 				9B3352D71D990ED500183C2E /* LaunchScreen.storyboard */,
@@ -227,6 +230,7 @@
 			files = (
 				9B3352CE1D990ED500183C2E /* ViewController.swift in Sources */,
 				9B3352E31D99148B00183C2E /* ToDo.swift in Sources */,
+				9B744F2D1D9D0C4500815BA4 /* ServerTodoTableViewController.swift in Sources */,
 				9B3352E21D99148B00183C2E /* ToDo+CoreDataProperties.swift in Sources */,
 				9B3352CC1D990ED500183C2E /* AppDelegate.swift in Sources */,
 				9B3352D41D990ED500183C2E /* ToDoListCoreData.xcdatamodeld in Sources */,
